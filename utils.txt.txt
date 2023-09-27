@@ -1,2 +1,2 @@
-Utility fuhnctions for version three
+Utility functions for version four
 
